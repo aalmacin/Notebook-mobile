@@ -4,12 +4,12 @@
     <feature name="App">
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
-    <name>HelloWorld</name>
+    <name>Notebook</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Notebook App
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="aldrinjerome19@gmail.com">
+        Aldrin Jerome Almacin
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
